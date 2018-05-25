@@ -1,5 +1,5 @@
 # FaculdadeXPTO
-Visão:
+### Visão:
 A faculdade XPTO possui um sistema para inscrição de alunos através do preenchimento de formulários disponibilizados em uma página na WEB.
 
 Este sistema possui as funcionalidades abaixo:
